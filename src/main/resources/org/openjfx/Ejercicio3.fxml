@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="242.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Button layoutX="183.0" layoutY="108.0" mnemonicParsing="false" text="Buto 1: anclat a: TOP+LEFT" AnchorPane.leftAnchor="50.0" AnchorPane.topAnchor="40.0" />
+      <Button layoutX="254.0" layoutY="210.0" mnemonicParsing="false" text="Buro 2: anclat a : TOP + LEFT + RIGHT" AnchorPane.leftAnchor="10.0" AnchorPane.rightAnchor="320.0" AnchorPane.topAnchor="90.0" />
+      <Button layoutX="294.0" layoutY="144.0" mnemonicParsing="false" text="Buto 3: anclat a:  Top + Right" AnchorPane.rightAnchor="20.0" AnchorPane.topAnchor="100.0" />
+      <Button layoutX="238.0" layoutY="244.0" mnemonicParsing="false" text="Buto 4: anclat a: Top + Left + Right + Bottom" AnchorPane.bottomAnchor="45.0" AnchorPane.leftAnchor="40.0" AnchorPane.rightAnchor="50.0" AnchorPane.topAnchor="150.0" />
+   </children>
+</AnchorPane>
